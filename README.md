@@ -14,21 +14,22 @@
 |网上视频|[链接](https://learningsicp.github.io/)|
 |习题解答|[链接](https://sicp.readthedocs.io/en/latest/)|
 
-## 目录
-
-`exercises`放置的是习题和解答
+## 练习和解答
 
 ### 第一章
 
 [1.1](./exercises/1.1)
+
 [1.2](./exercises/1.2)
+
 [1.3](./exercises/1.3)
+
 [1.4](./exercises/1.4)
+
 [1.5](./exercises/1.5)
+
 [1.6](./exercises/1.6)
+
 [1.7](./exercises/1.7)
+
 [1.8](./exercises/1.8)
-
-### 第二章
-
-### 第三章
